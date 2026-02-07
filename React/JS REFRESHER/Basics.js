@@ -6,6 +6,7 @@ console.log(userMassage)
 let userId = 12
 console.log(userId)
 console.log("Hare" + "krsna")
+// data types : strings , number , boolean , null , undefined and objects
 // operators 
 console.log(10/5) // + , - , * , % , / everything works 
 if("10" == 10) console.log(userId) // == checks only value
